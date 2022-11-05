@@ -12,7 +12,7 @@
   },
   "dependencies": {
     "babel-core": "^6.22.1",
-    "babel-loader": "^7.1.2",
+    "babel-loader": "^8.2.4",
     "babel-preset-airbnb": "^2.1.1",
     "babel-preset-env": "^1.6.0",
     "babel-preset-react": "^6.22.0",
@@ -27,9 +27,9 @@
     "sinon": "^1.17.7",
     "jsdom": "^9.9.1",
     "mocha": "^3.2.0",
-    "react-scripts": "^1.0.7",
+    "react-scripts": "^5.0.0",
     "react-test-renderer": "^16.0.0",
-    "webpack": "^3.6.0",
+    "webpack": "^5.0.0",
     "webpack-dev-server": "^2.9.1"
   },
   "scripts": {
